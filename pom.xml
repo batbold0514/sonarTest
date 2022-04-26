@@ -794,6 +794,7 @@
                 <sonar.password>
                     admin1
                 </sonar.password>
+                
             </properties>
         </profile>
         <profile>
